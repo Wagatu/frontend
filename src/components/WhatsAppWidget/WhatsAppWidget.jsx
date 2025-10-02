@@ -107,7 +107,7 @@ const WhatsAppWidget = () => {
                 <div className="contact-methods">
                   <div className="contact-item">
                     <Phone size={14} />
-                    <span>+1 (555) 123-4567</span>
+                    <span>+254 (740463021) </span>
                   </div>
                   <div className="contact-item">
                     <Mail size={14} />
