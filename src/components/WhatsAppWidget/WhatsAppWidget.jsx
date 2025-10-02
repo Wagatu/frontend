@@ -7,7 +7,7 @@ const WhatsAppWidget = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [message, setMessage] = useState('');
 
-  const phoneNumber = "1234567890"; // Replace with your number
+  const phoneNumber = "0740463021"; 
   const businessName = "TechStore Support";
   const businessHours = "Mon-Sun: 9:00 AM - 10:00 PM";
 
